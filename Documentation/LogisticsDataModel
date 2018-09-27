@@ -1,0 +1,24 @@
+{
+	"date"  : "dd-mm-yyyy",
+	"slots" : [{
+					 			"slotId" : "xx",
+								"slotDuration" : "m",
+								"slotStartTime" : "hh:mm",
+								"slotEndTime" : "hh:mm",
+								"slotNoOfVehicles" : "xx",
+								"slotAvailability" : "t/f",
+								"vehicles" : [{
+												"vehicleId" : "xx",
+												"vehicleCapacity" : "xx",
+												"vehicleLoadedCapacity" : "xx",
+												"vehicleRouteDuration" : "m",
+												"vehicleDurationLimit" : "m",
+												"vehicleRoute" : [{
+																		"orderId" : "xx",
+																		"orderLat" : "lat",
+																		"orderLng" : "lng",
+																		"orderVolume" : "v",
+													}]
+									},...]
+		},...]
+},...

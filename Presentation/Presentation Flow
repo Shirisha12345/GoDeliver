@@ -1,0 +1,37 @@
+Introduction-----> Intro about team and product and problem we are solving
+
+Overview on delivery Systems Insights-------> Graphs on delivery logistics
+                                     -------> Demo
+
+Architecture-----> Brief overview on microservices developed and its use
+
+A brief intro on ecommerce platform--------> bookshop
+
+A consumer experience--------> Registration(Tech used! what and how?)
+on bookshop          --------> Demo
+                     --------> Login(Tech used! what and how?)
+                     --------> Demo
+                     --------> Features[Add to add to and remove from cart, wishlist, profile,](Tech used! what and how?)
+                     --------> Demo
+
+The timeslot selection-------> A deep system overview on CVRP service and the algorithms used(Tech used! what and how?)
+                      -------> how its helpful to reduce costs
+                      -------> Demo from timeslots till payement
+
+Payment-----------> Stripe payment
+       -----------> Demo
+
+Infrastructure Metrics-------> Grafana and Prometheus
+                      -------> Demo
+
+Deployment-------> CI/CD and AWS
+
+TechStack--------> Technologies we are using
+
+Software Development Lifecycle--------> How we went through the process(Agile Scrum,Sprints,Git)
+
+Known Bugs-------> Bugs still left to review
+
+Backlogs---------> The features that we are not able to implement
+
+Closing

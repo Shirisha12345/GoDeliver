@@ -1,0 +1,103 @@
+{
+  "dateLogistics": {
+    "date": "04-08-2018",
+    "slots": [{
+        "slotId": "1",
+        "slotDuration": "180",
+        "slotStartTime": "0900",
+        "slotEndTime": "1200",
+        "slotNoOfVehicles": "3",
+        "slotCost": "6",
+        "slotVehicle": [{
+            "vehicleId": "1",
+            "vehicleCapacity": "5670000",
+            "vehicleLoadedCapacity": "",
+            "vehicleRouteDuration": "",
+            "vehicleDurationLimit": "180",
+            "vehicleRoute": [{
+
+              },
+              {
+
+              }
+            ]
+          },
+          {
+            "slotId": "2",
+            "slotDuration": "180",
+            "slotStartTime": "1300",
+            "slotEndTime": "1600",
+            "slotNoOfVehicles": "3",
+            "slotCost": "6",
+            "slotVehicle": [{
+              "vehicleId": "1",
+              "vehicleCapacity": "5670000",
+              "vehicleLoadedCapacity": "",
+              "vehicleRouteDuration": "",
+              "vehicleDurationLimit": "180",
+              "vehicleRoute": [{
+
+                },
+                {
+
+                }
+              ]
+            }]
+          },
+          {
+            "slotId": "1",
+            "slotDuration": "180",
+            "slotStartTime": "0900",
+            "slotEndTime": "1200",
+            "slotNoOfVehicles": "3",
+            "slotCost": "6",
+            "slotVehicle": [{
+              "vehicleId": "1",
+              "vehicleCapacity": "5670000",
+              "vehicleLoadedCapacity": "",
+              "vehicleRouteDuration": "",
+              "vehicleDurationLimit": "180",
+              "vehicleRoute": [{
+                  "orderId": "13",
+                  "orderConsumeName": "John Doe",
+                  "orderConsumerAddress": "Stackroute, Koramangala 7th Block, Bengaluru",
+                  "orderConsumerPhone": "9876543210",
+                  "orderLocation": {
+                    "orderLatitude": "12.9347154",
+                    "orderLongitude": "77.5349332",
+                  },
+                  "orderVolume": "600",
+                  "orderDate": "07-08-2018",
+                  "availableSlots": {
+                    "slotAvailability": [false, false, false],
+                    "slotCost": ["0", "0", "0"],
+                  },
+                  "selectedSlot": ""
+
+                },
+                {
+
+                }
+              ]
+            }]
+          }
+        ]
+      },
+      "newOrder": {
+        "orderId": "13",
+        "orderConsumeName": "John Doe",
+        "orderConsumerAddress": "Stackroute, Koramangala 7th Block, Bengaluru",
+        "orderConsumerPhone": "9876543210",
+        "orderLocation": {
+          "orderLatitude": "12.9347154",
+          "orderLongitude": "77.5349332",
+        },
+        "orderVolume": "600",
+        "orderDate": "07-08-2018",
+        "availableSlots": {
+          "slotAvailability": [false, false, false],
+          "slotCost": ["0", "0", "0"],
+        },
+        "selectedSlot": ""
+      }
+    }
